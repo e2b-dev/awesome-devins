@@ -20,19 +20,6 @@
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
 Welcome to our list of AI agents that are inspired by release of Devin.
-We structured the list into two parts:
-- [Open-source projects](#open-source-projects)
-  - [Devon](#devon)
-    - [Category](#category)
-    - [Description](#description)
-    - [Links](#links)
-  - [OpenDevin](#opendevin)
-    - [Category](#category-1)
-    - [Description](#description-1)
-    - [Links](#links-1)
-- [Closed-source projects and companies](#closed-source-projects-and-companies)
-  - [Want to use E2B with your AI product?](#want-to-use-e2b-with-your-ai-product-1)
-  - [Join the community](#join-the-community)
   
 See the 🌟 [complete list of AI agents](https://e2b.dev/ai-agents). 🌟
 
@@ -41,8 +28,6 @@ Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
-
-For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
 
 <!---
 ## Who's behind this?
