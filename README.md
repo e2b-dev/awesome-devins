@@ -141,6 +141,14 @@ Open-source Devin alternative
 Coding, general purpose
 
 ### Description
+- This Devin alternative scores 12.3% on the FULL swe benchmark
+- ["An open source Devin getting 12.29% on 100% of the SWE Bench test set vs Devin's 13.84% on 25% of the test set!"](https://x.com/danielhanchen/status/1775120334305607781)
+- SWE-agent works by interacting with a specialized terminal, which allows it to:
+	- 🔍 Open, scroll and search through files
+	- ✍️ Edit specific lines w/ automatic syntax check
+	- 🧪 Write and execute tests
+- This custom-built interface is critical for good performance. Simply connecting an LM to a vanilla bash terminal does not work well.
+- ["Our key insight is that LMs require carefully designed agent-computer interfaces (similar to how humans like  good UI design). E.g. When the LM messes up indentation, our editor prevents it and gives feedback."](https://x.com/jyangballin/status/1775114448513958134)
 - SWE-agent was released by the Princeton NLP team.
 - What makes SWE-agent special is that it performs almost as well as Devin on the SWE-bench.
 - It is important to say that the performance [varies](https://www.swebench.com/) based on the model used by the agent.
