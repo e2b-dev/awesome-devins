@@ -49,6 +49,24 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # Open-source "Devins"
 
+## [Devika](https://github.com/stitionai/devika)
+Agentic AI Software Engineer
+
+<details>
+
+![Image](https://github.com/stitionai/devika/raw/main/.assets/devika-screenshot.png)
+### Category
+Coding, general purpose
+
+### Description
+- Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
+- Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
+
+### Links
+- [GitHub](https://github.com/stitionai/devika)
+
+</details>
+
 ## [Devon](https://github.com/entropy-research/Devon)
 Open-source Devin alternative
 
@@ -63,6 +81,34 @@ Coding, general purpose
 
 ### Links
 - [GitHub](https://github.com/entropy-research/Devon)
+
+</details>
+
+## [MetaGPT](https://github.com/geekan/MetaGPT)
+Agent framework returning Design, Tasks, or Repo
+
+<details>
+
+ ![image](https://github.com/geekan/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
+
+### Category
+Multi-agent, Coding, Build your own
+
+### Description
+MetaGPT is a multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo.
+- MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
+- It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
+- Internally, MetaGPT includes product managers / architects / project managers / engineers
+- It provides the entire process of a software company along with carefully orchestrated SOPs. Code = SOP(Team) is the core philosophy
+- The paper about LLM-based multi-agent work spushes forward the idea of autonomous agents collaborating with each other to do more than one can on its own.
+- MetaGPT incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration
+
+
+### Links  
+- [GitHub](https://github.com/geekan/MetaGPT)
+- [Discord](https://discord.com/invite/4WdszVjv)
+- [Twitter](https://twitter.com/DeepWisdom2019)
+- [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 
 </details>
 
