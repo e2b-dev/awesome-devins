@@ -136,7 +136,7 @@ Open-source Devin alternative
 
 <details>
 
-![Image](https://www.swebench.com/img/swellama.png)
+![Image](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/swe-agent-banner.png)
 ### Category
 Coding, general purpose
 
@@ -171,6 +171,30 @@ Coding, general purpose
 
 
 # Closed-source "Devins"
+
+## [Devin](https://www.cognition-labs.com/introducing-devin)
+The first AI software engineer
+
+<details>
+
+![image](https://assets-global.website-files.com/65cf071d26e52092bc212f6e/65ed4622397bb038560f1ef3_cropped-p-500.png)
+
+### Category
+General purpose, Coding
+
+
+### Description
+Devin is in early phase now, but according to demo, it has the following capabilities:
+- Can learn how to use unfamiliar technologies.
+- Can build and deploy apps end to end.
+- Can autonomously find and fix bugs in codebases.
+
+
+### Links
+- [Blog post](https://www.cognition-labs.com/introducing-devin)
+- [X (Twitter)](https://twitter.com/cognition_labs)
+  
+</details>
 
 
 ## Want to use E2B with your AI product?
