@@ -1,5 +1,5 @@
 <h1 align="center">
-	🔮 Awesome AI Agents
+	🔮 Awesome Devins
 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
