@@ -22,10 +22,14 @@
 Welcome to our list of AI agents that are inspired by release of Devin.
 We structured the list into two parts:
 - [Open-source projects](#open-source-projects)
-  - [OpenDevin](#opendevin)
+  - [Devon](#devon)
     - [Category](#category)
     - [Description](#description)
     - [Links](#links)
+  - [OpenDevin](#opendevin)
+    - [Category](#category-1)
+    - [Description](#description-1)
+    - [Links](#links-1)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   - [Want to use E2B with your AI product?](#want-to-use-e2b-with-your-ai-product-1)
   - [Join the community](#join-the-community)
@@ -63,6 +67,22 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # Open-source projects
 
+## [Devon](https://github.com/entropy-research/Devon)
+Open-source Devin alternative
+
+<details>
+
+![Image]()
+### Category
+Coding, general purpose
+
+### Description
+- Open-source alternative to Devin by Entropy research
+
+### Links
+- [GitHub](https://github.com/entropy-research/Devon)
+
+</details>
 
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
