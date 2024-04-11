@@ -13,13 +13,12 @@
   Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
 </h3>
 
-<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
 
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
-Welcome to our list of AI agents that are inspired by release of Devin. See the 🌟 [complete list of AI agents](https://e2b.dev/ai-agents). 🌟
+Welcome to our list of AI agents that are inspired by release of Devin. See the 🌟 [complete list of AI agents on GitHub](https://e2b.dev/ai-agents) or in [web UI](https://e2b.dev/ai-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
