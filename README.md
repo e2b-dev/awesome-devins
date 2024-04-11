@@ -156,7 +156,6 @@ Coding, general purpose
 
 ### Description
 - This Devin alternative scores 12.3% on the FULL swe benchmark
-- ["An open source Devin getting 12.29% on 100% of the SWE Bench test set vs Devin's 13.84% on 25% of the test set!"](https://x.com/danielhanchen/status/1775120334305607781)
 - SWE-agent works by interacting with a specialized terminal, which allows it to:
 	- 🔍 Open, scroll and search through files
 	- ✍️ Edit specific lines w/ automatic syntax check
