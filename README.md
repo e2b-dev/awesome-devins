@@ -59,8 +59,13 @@ Agentic AI Software Engineer
 Coding, general purpose
 
 ### Description
+- Devika supports Claude 3, GPT-4, GPT-3.5, and Local LLMs via Ollama
+- GitHub stars: 14.4k
 - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
 - Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
+- Its architecture has a Code Writing Module that generates code based on the plan, research findings, and user requirements. Supports multiple programming languages. It also has a Browser Interaction Module that enables Devika to navigate websites, extract information, and interact with web elements as needed.
+- To enable focused research and information gathering, Devika employs keyword extraction techniques. 
+
 
 ### Links
 - [GitHub](https://github.com/stitionai/devika)
@@ -72,12 +77,17 @@ Open-source Devin alternative
 
 <details>
 
-![Image]()
+![Image](https://avatars.githubusercontent.com/u/163390653?s=200&v=4)
 ### Category
 Coding, general purpose
 
 ### Description
 - Open-source alternative to Devin by Entropy research
+- GitHub stars: 150
+- Devon is an open-source SWE Agent that aims to help software engineers with the development and maintenance of software.
+- It doesn’t provide an extensive description, but as features it mentions reliable multi file editing or use of tools such as git
+- Devon is built with Python
+
 
 ### Links
 - [GitHub](https://github.com/entropy-research/Devon)
@@ -95,13 +105,12 @@ Agent framework returning Design, Tasks, or Repo
 Multi-agent, Coding, Build your own
 
 ### Description
-MetaGPT is a multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo.
-- MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
-- It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
-- Internally, MetaGPT includes product managers / architects / project managers / engineers
-- It provides the entire process of a software company along with carefully orchestrated SOPs. Code = SOP(Team) is the core philosophy
-- The paper about LLM-based multi-agent work spushes forward the idea of autonomous agents collaborating with each other to do more than one can on its own.
-- MetaGPT incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration
+MetaGPT is a multi-agent framework
+MetaGPT has existed longer than other Devin alternatives, but after the release of Devin, the MetaGPT team aims to replace most of the Devin capabilities.
+MetaGPT allows the assignment of different roles to GPTs to form a collaborative software entity for complex tasks.
+You can use this multi-agent framework in your own scenario to build your own application.
+Internally, MetaGPT includes agents with roles of product managers, architects, project managers, and engineers.
+It provides the entire process of a software company along with carefully orchestrated SOPs. Code = SOP(Team) is the core philosophy.
 
 
 ### Links  
@@ -122,12 +131,17 @@ OpenDevin: Code Less, Make More
 Coding, general purpose
 
 ### Description
--  The OpenDevin project is born out of a desire to replicate, enhance, and innovate beyond the original Devin model.
+-  The OpenDevin project aims to replicate the original Devin model.
 -  By engaging the open-source community, we aim to tackle the challenges faced by Code LLMs in practical scenarios, producing works that significantly contribute to the community and pave the way for future advancements.
+- OpenDevin does code execution via Docker, but there is a work in progress with adding an option to execute code in the sandboxed environment
+- It has over 20.7k stars 
+The key technologies used in the project include FastAPI, uvicorn, LiteLLM, Docker, Ruff, MyPy, LlamaIndex, and React.
 
 
 ### Links
 - [GitHub](https://github.com/OpenDevin/OpenDevin)
+- [Discord](https://discord.com/invite/mBuDGRzzES)
+- [Slack](https://opendevin.slack.com/join/shared_invite/zt-2etftj1dd-X1fDL2PYIVpsmJZkqEYANw#/shared-invite/email)
 
 </details>
 
