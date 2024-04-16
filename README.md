@@ -48,6 +48,58 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # Open-source "Devins"
 
+## [Anterion](https://github.com/MiscellaneousStuff/anterion)
+Open-source software engineer
+
+<details>
+
+![Image]()
+### Category
+Coding, general purpose
+
+### Description
+- Anterion Agent extends the capabilities of SWE-agent to plan and execute open-ended engineering tasks.
+- Frontend is inspired by OpenDevin
+
+
+
+
+
+### Links
+- [GitHub](https://github.com/MiscellaneousStuff/anterion)
+- [Discord](https://discord.com/invite/nbY6njCuxh)
+- [YouTube demo](https://www.youtube.com/watch?v=J-KZNFVcAxU&ab_channel=Anterion)
+- [YouTube review](https://www.youtube.com/watch?v=wgtZbw1yEtE&ab_channel=Prepdrive)
+
+
+</details>
+
+## [AutoCodeRover](https://github.com/nus-apr/auto-code-rover)
+Autonomous Program Improvement
+
+<details>
+
+![Image](https://private-user-images.githubusercontent.com/48704330/322199117-e10c3270-442c-4673-8656-735c892dfb66.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMyMjY3NjcsIm5iZiI6MTcxMzIyNjQ2NywicGF0aCI6Ii80ODcwNDMzMC8zMjIxOTkxMTctZTEwYzMyNzAtNDQyYy00NjczLTg2NTYtNzM1Yzg5MmRmYjY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE2VDAwMTQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5NzY5NGUyYWUyMTZjYjk0MzZlMGY0NmIwMjBhZTA1NDAyYzE4NjFhZDExMDhjYzQ4Mjc3ZTc4OTE4NDYwZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y7mGAqtPaVKWShBVUOzSALad08wyJ5ZFj28_Q_HeVlY)
+### Category
+Coding, general purpose
+
+### Description
+- This agent is based on a paper "AutoCodeRover: Autonomous Program Improvement".
+- It combines LLMs with analysis and debugging capabilities to prioritize patch locations ultimately leading to a patch.
+- Resolves ~16% of issues of SWE-bench (total 2294 GitHub issues) and ~22% issues of SWE-bench lite (total 300 GitHub issues).
+- AutoCodeRover works in two stages:
+  - Context retrieval: The LLM is provided with code search APIs to navigate the codebase and collect relevant context.
+  - Patch generation: The LLM tries to write a patch, based on retrieved context.
+- AutoCodeRover has two unique features:
+  - Code search APIs are Program Structure Aware. Instead of searching over files by plain string matching, AutoCodeRover searches for relevant code context (methods/classes) in the abstract syntax tree.
+  - When a test suite is available, AutoCodeRover can take advantage of test cases to achieve an even higher repair rate, by performing statistical fault localization.
+
+### Links
+- [GitHub](https://github.com/nus-apr/auto-code-rover)
+- [Paper](https://arxiv.org/abs/2404.05427)
+
+</details>
+
 ## [Devika](https://github.com/stitionai/devika)
 Agentic AI Software Engineer
 
