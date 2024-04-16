@@ -97,6 +97,28 @@ Coding, general purpose
 
 </details>
 
+## [AutoDev](https://github.com/unit-mesh/auto-dev)
+Open-source Devin alternative
+
+<details>
+
+![Image](https://github.com/unit-mesh/auto-dev/raw/master/plugin/src/main/resources/META-INF/pluginIcon.svg)
+
+### Category
+Coding, general purpose
+
+### Description
+- AutoDev has multilingual support
+- Languages support: Java, Kotlin, JavaScript/TypeScript, Rust, Python, Golang, C/C++/OC, or others…
+
+
+
+### Links
+- [GitHub](https://github.com/unit-mesh/auto-dev)
+- [Documentation](https://ide.unitmesh.cc/)
+
+</details>
+
 ## [Devika](https://github.com/stitionai/devika)
 Agentic AI Software Engineer
 
