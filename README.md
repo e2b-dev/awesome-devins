@@ -53,16 +53,13 @@ Open-source software engineer
 
 <details>
 
-![Image]()
+![Image](https://avatars.githubusercontent.com/u/14856541?s=64&v=4)
 ### Category
 Coding, general purpose
 
 ### Description
 - Anterion Agent extends the capabilities of SWE-agent to plan and execute open-ended engineering tasks.
 - Frontend is inspired by OpenDevin
-
-
-
 
 
 ### Links
