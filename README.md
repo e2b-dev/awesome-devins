@@ -119,6 +119,52 @@ Coding, general purpose
 
 </details>
 
+## [Codel](https://github.com/semanser/codel?tab=readme-ov-file)
+Fully autonomous AI agent
+
+<details>
+
+![Image](https://github.com/semanser/codel/raw/main/.github/demo.png)
+### Category
+Coding, general purpose
+
+### Description
+- Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor
+- Everything is running in a sandboxed Docker environment.
+- It can fetch latest information from the web (tutorials, docs, etc.) if needed.
+- Has a built-in text editor for previewing all files
+- All the history commands and outputs are saved in the PostgreSQL database.
+- The simplest way to start Codel is to use a pre-built Docker image
+
+
+### Links
+- [GitHub](https://github.com/semanser/codel?tab=readme-ov-file)
+- [Discord](https://discord.com/invite/uMaGSHNjzc)
+
+</details>
+
+## [Devon](https://github.com/entropy-research/Devon)
+Open-source Devin alternative
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/163390653?s=200&v=4)
+
+### Category
+Coding, general purpose
+
+### Description
+- Open-source alternative to Devin by Entropy research
+- GitHub stars: 150
+- Devon is an open-source SWE Agent that aims to help software engineers with the development and maintenance of software.
+- It doesn’t provide an extensive description, but as features it mentions reliable multi file editing or use of tools such as git
+- Devon is built with Python
+- 
+### Links
+- [GitHub](https://github.com/entropy-research/Devon)
+
+</details>
+
 ## [Devika](https://github.com/stitionai/devika)
 Agentic AI Software Engineer
 
@@ -210,8 +256,30 @@ The key technologies used in the project include FastAPI, uvicorn, LiteLLM, Dock
 
 ### Links
 - [GitHub](https://github.com/OpenDevin/OpenDevin)
+- [Demo video](https://www.youtube.com/watch?v=g6-DpvBlTWY&ab_channel=GitWit)
 - [Discord](https://discord.com/invite/mBuDGRzzES)
 - [Slack](https://opendevin.slack.com/join/shared_invite/zt-2etftj1dd-X1fDL2PYIVpsmJZkqEYANw#/shared-invite/email)
+
+</details>
+
+## [Plandex](https://github.com/plandex-ai/plandex)
+Terminal-based AI coding engine for complex tasks
+
+<details>
+
+![Image](https://github.com/plandex-ai/plandex/raw/main/images/plandex-logo-dark.png)
+
+### Category
+Coding, general purpose
+
+### Description
+- Plandex uses long-running agents to complete tasks that span multiple files and require many steps.
+- It breaks up large tasks into smaller subtasks, then implements each one, continuing until it finishes the job.
+- It helps you churn through your backlog, work with unfamiliar technologies, get unstuck, and spend less time on the boring stuff.
+
+
+### Links
+- [GitHub](https://github.com/plandex-ai/plandex)
 
 </details>
 
@@ -221,6 +289,7 @@ Open-source Devin alternative
 <details>
 
 ![Image](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/swe-agent-banner.png)
+
 ### Category
 Coding, general purpose
 
@@ -248,9 +317,10 @@ Coding, general purpose
 - [Demo](https://swe-agent.com/demo)
 - [Discord](https://discord.com/invite/AVEFbBn2rH)
 
+
 </details>
 
-
+<br>
 
 
 # Closed-source "Devins"
