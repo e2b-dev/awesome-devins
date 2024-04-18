@@ -143,28 +143,6 @@ Coding, general purpose
 
 </details>
 
-## [Devon](https://github.com/entropy-research/Devon)
-Open-source Devin alternative
-
-<details>
-
-![Image](https://avatars.githubusercontent.com/u/163390653?s=200&v=4)
-
-### Category
-Coding, general purpose
-
-### Description
-- Open-source alternative to Devin by Entropy research
-- GitHub stars: 150
-- Devon is an open-source SWE Agent that aims to help software engineers with the development and maintenance of software.
-- It doesn’t provide an extensive description, but as features it mentions reliable multi file editing or use of tools such as git
-- Devon is built with Python
-- 
-### Links
-- [GitHub](https://github.com/entropy-research/Devon)
-
-</details>
-
 ## [Devika](https://github.com/stitionai/devika)
 Agentic AI Software Engineer
 
@@ -237,7 +215,7 @@ It provides the entire process of a software company along with carefully orches
 
 </details>
 
-## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+## [⭐ OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
 <details>
