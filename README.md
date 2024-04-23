@@ -158,7 +158,7 @@ Coding, general purpose
 - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
 - Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 - Its architecture has a Code Writing Module that generates code based on the plan, research findings, and user requirements. Supports multiple programming languages. It also has a Browser Interaction Module that enables Devika to navigate websites, extract information, and interact with web elements as needed.
-- To enable focused research and information gathering, Devika employs keyword extraction techniques. 
+- To enable focused research and information gathering, Devika employs keyword extraction techniques.
 
 
 ### Links
@@ -207,7 +207,7 @@ Internally, MetaGPT includes agents with roles of product managers, architects, 
 It provides the entire process of a software company along with carefully orchestrated SOPs. Code = SOP(Team) is the core philosophy.
 
 
-### Links  
+### Links
 - [GitHub](https://github.com/geekan/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
@@ -228,7 +228,7 @@ Coding, general purpose
 -  The OpenDevin project aims to replicate the original Devin model.
 -  By engaging the open-source community, we aim to tackle the challenges faced by Code LLMs in practical scenarios, producing works that significantly contribute to the community and pave the way for future advancements.
 - OpenDevin does code execution via Docker, but there is a work in progress with adding an option to execute code in the sandboxed environment
-- It has over 20.7k stars 
+- It has over 20.7k stars
 The key technologies used in the project include FastAPI, uvicorn, LiteLLM, Docker, Ruff, MyPy, LlamaIndex, and React.
 
 
@@ -324,7 +324,30 @@ Devin is in early phase now, but according to demo, it has the following capabil
 ### Links
 - [Blog post](https://www.cognition-labs.com/introducing-devin)
 - [X (Twitter)](https://twitter.com/cognition_labs)
-  
+
+</details>
+
+## [Fume](https://www.fumedev.com/)
+AI Software Engineer to 10x efficiency
+
+<details>
+
+![image](https://www.fumedev.com/images/fume_white.svg)
+
+### Category
+General purpose, Coding
+
+### Description
+Fume is an expert on everything your engineers need. It can help your engineers to solve any problem, or take the driver seat and automate solutions end-to-end.
+- Slack integration
+- Automated Code Changes
+- Step-by-Step Guidance
+- Private & Secure
+- SotA and Public
+
+### Links
+- [Docs](https://docs.fumedev.com/introduction)
+- [Founder's X (Twitter)](https://twitter.com/aegucer)
 </details>
 
 
