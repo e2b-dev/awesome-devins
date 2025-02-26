@@ -38,7 +38,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 <!---
 ## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_)
+- Follow us on [Twitter](https://twitter.com/e2b)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 
@@ -360,6 +360,6 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 ## Join the community
-- Follow us on [X ](https://twitter.com/e2b_dev)
+- Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
