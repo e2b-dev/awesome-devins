@@ -363,3 +363,28 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
+
+## [SkillBoss](https://skillboss.co)
+Unified API Gateway for AI Coding Agents
+
+<details>
+
+![Image](https://skillboss.co/og-image.png)
+
+### Category
+API Gateway, Multi-Model, Infrastructure
+
+### Description
+- **Backed by OpenAI Startup Fund & Amazon**
+- One API key for 100+ AI services including GPT-5, Claude Opus 4.5, Gemini, video generation (Veo 3.1), image generation (DALL-E 3, Flux), and voice (ElevenLabs)
+- OpenAI-compatible endpoint works with all Devin-inspired agents
+- Native integration with Claude Code, Cursor, Windsurf, Kiro, Gemini CLI, and Codex
+- Pay-as-you-go pricing, no subscriptions
+- $3.50 free credit for new accounts
+
+### Links
+- [Website](https://skillboss.co)
+- [Documentation](https://skillboss.co/docs)
+- [Download](https://skillboss.co/download)
+
+</details>
