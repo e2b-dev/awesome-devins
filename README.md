@@ -37,6 +37,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 <!---
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with task registry, automated delegation, and heartbeat monitoring. MIT licensed.
 ## Join the community
 - Follow us on [Twitter](https://twitter.com/e2b)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
