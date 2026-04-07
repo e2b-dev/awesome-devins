@@ -188,6 +188,24 @@ Coding, general purpose
 
 </details>
 
+## [RemoteOpenClaw](https://remoteopenclaw.com)
+Open marketplace for AI skills and personas
+
+<details>
+
+### Category
+AI Skills, Personas, Marketplace
+
+### Description
+- RemoteOpenClaw is an open marketplace for discovering, sharing, and distributing AI agent skills and personas built on OpenClaw
+- Enables developers to share, distribute, and sell AI skills
+- Built on the open-source OpenClaw standard
+
+### Links
+- [Web](https://remoteopenclaw.com)
+- [GitHub](https://github.com/openclaw)
+
+</details>
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
