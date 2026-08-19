@@ -10,7 +10,7 @@
 	</p>
 </h1>
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
+  Try out E2B's <a href="https://e2b.dev/docs?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-devins">cloud runtime</a> for AI agents
 </h3>
 
 
@@ -18,7 +18,7 @@
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
-Welcome to our list of AI agents that are inspired by release of Devin. See the 🌟 [complete list of AI agents on GitHub](https://e2b.dev/ai-agents) or in [web UI](https://e2b.dev/ai-agents).
+Welcome to our list of AI agents that are inspired by release of Devin. See the 🌟 [complete list of AI agents on GitHub](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-devins) or in [web UI](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-devins).
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
@@ -33,7 +33,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
-We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
+We are open-source and you can get started with E2B [here](https://e2b.dev/docs?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-devins).
 
 
 <!---
@@ -354,7 +354,7 @@ Fume is an expert on everything your engineers need. It can help your engineers 
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
-We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
+We are open-source and you can get started with E2B [here](https://e2b.dev/docs?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-devins).
 
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 
