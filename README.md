@@ -119,6 +119,27 @@ Coding, general purpose
 
 </details>
 
+
+## [Blinky](https://github.com/seahyinghang8/blinky)
+An open-source AI debugging agent for VSCode
+
+<details>
+![Banner](https://github.com/seahyinghang8/blinky/raw/master/media/banner.png)
+
+### Category
+Coding, Debugging
+
+### Description
+- Blinky is an open-source AI debugging agent for VSCode that uses LLMs to help identify and fix backend code errors (inspired by SWE-agent).
+- Blinky leverages the VSCode API, Language Server Protocol (LSP), and print statement debugging to triangulate and address bugs in real-world backend systems.
+
+### Links
+- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=blinky.blinky)
+- [Discord](https://discord.gg/d3AUNHDb)
+- [GitHub](https://github.com/seahyinghang8/blinky)
+</details>
+
+
 ## [Codel](https://github.com/semanser/codel?tab=readme-ov-file)
 Fully autonomous AI agent
 
