@@ -215,25 +215,25 @@ It provides the entire process of a software company along with carefully orches
 
 </details>
 
-## [⭐ OpenDevin](https://github.com/OpenDevin/OpenDevin)
-OpenDevin: Code Less, Make More
+## [⭐ OpenHands](https://github.com/All-Hands-AI/OpenHands)
+OpenHands: Code Less, Make More
 
 <details>
 
-![Image](https://github.com/OpenDevin/OpenDevin/raw/main/logo.png)
+![Image](https://github.com/All-Hands-AI/OpenHands/blob/main/docs/static/img/logo.png)
 ### Category
 Coding, general purpose
 
 ### Description
--  The OpenDevin project aims to replicate the original Devin model.
+-  The OpenHands project aims to replicate the original Devin model.
 -  By engaging the open-source community, we aim to tackle the challenges faced by Code LLMs in practical scenarios, producing works that significantly contribute to the community and pave the way for future advancements.
-- OpenDevin does code execution via Docker, but there is a work in progress with adding an option to execute code in the sandboxed environment
+- OpenHands does code execution via Docker, but there is a work in progress with adding an option to execute code in the sandboxed environment
 - It has over 20.7k stars
 The key technologies used in the project include FastAPI, uvicorn, LiteLLM, Docker, Ruff, MyPy, LlamaIndex, and React.
 
 
 ### Links
-- [GitHub](https://github.com/OpenDevin/OpenDevin)
+- [GitHub](https://github.com/All-Hands-AI/OpenHands)
 - [Demo video](https://www.youtube.com/watch?v=g6-DpvBlTWY&ab_channel=GitWit)
 - [Discord](https://discord.com/invite/mBuDGRzzES)
 - [Slack](https://opendevin.slack.com/join/shared_invite/zt-2etftj1dd-X1fDL2PYIVpsmJZkqEYANw#/shared-invite/email)
