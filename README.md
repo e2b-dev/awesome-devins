@@ -188,6 +188,27 @@ Coding, general purpose
 
 </details>
 
+## [LoopTroop](https://github.com/looptroop-ai/LoopTroop)
+Local GUI orchestrator for AI coding agents
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/looptroop-ai?s=200&v=4)
+### Category
+Coding, general purpose
+
+### Description
+- Local, open-source GUI orchestrator that takes a coding ticket all the way to a merged PR.
+- An LLM Council drafts and votes on the plan, and work is split into atomic "beads" that run in isolated git worktrees.
+- A "Ralph Loop" retries failed beads with a fresh context window to fight context rot. Built on OpenCode, MIT licensed.
+
+
+### Links
+- [GitHub](https://github.com/looptroop-ai/LoopTroop)
+- [Website](https://www.looptroop.ovh)
+
+</details>
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
