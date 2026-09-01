@@ -27,6 +27,9 @@ Have anything to add? Create a pull request or fill in this [form](https://forms
 
 <!---
 ## Who's behind this?
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw — tracks Gateway status, sessions, token usage & trends
+
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
 
