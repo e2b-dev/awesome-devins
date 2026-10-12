@@ -350,6 +350,32 @@ Fume is an expert on everything your engineers need. It can help your engineers 
 - [Founder's X (Twitter)](https://twitter.com/aegucer)
 </details>
 
+## [Sinatra](https://sinatra.dev)
+Coding agent for Linear and GitHub: assign an issue, get a pull request
+
+<details>
+
+![image](https://www.sinatra.dev/opengraph-image)
+
+### Category
+Coding
+
+
+### Description
+Sinatra picks up a Linear issue (assign or @mention) or a labelled GitHub issue and works it end to end:
+- Clones the repo into its own sandbox, asks questions or proposes a plan when the ticket is vague, implements, runs the test suite, and reviews its own diff before marking the PR ready.
+- Posts progress on the issue as it works, takes messages mid-run, fixes failing CI, and reworks the PR when a reviewer requests changes; a human merges.
+- Runs on the Claude or ChatGPT subscription you already pay for, or your own API key; Sinatra never bills for model usage. Free: 1 task at a time, plus 1 queued, no daily limit.
+
+
+### Links
+- [Website](https://sinatra.dev)
+- [Docs](https://docs.sinatra.dev)
+- [Linear agents directory listing](https://linear.app/integrations/sinatra)
+- [X (Twitter)](https://x.com/Sinatradev)
+
+</details>
+
 
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
