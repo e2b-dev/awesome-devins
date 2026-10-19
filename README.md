@@ -188,6 +188,28 @@ Coding, general purpose
 
 </details>
 
+## [Frink](https://github.com/benord-labs/frink)
+Desktop app that runs AI coding agents in visual workflows
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/197941188?s=64&v=4)
+### Category
+Coding, general purpose
+
+### Description
+- Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything.
+- Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor.
+- GitHub stars: 50
+- Local and open source (MIT), on macOS and Linux.
+
+
+### Links
+- [GitHub](https://github.com/benord-labs/frink)
+- [Web](https://frink.dev)
+
+</details>
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
