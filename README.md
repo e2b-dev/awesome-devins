@@ -189,7 +189,7 @@ Coding, general purpose
 </details>
 
 ## [Frink](https://github.com/benord-labs/frink)
-Desktop app that runs AI coding agents in visual workflows
+Desktop-first app for parallel agents and triggered multi-step workflows.
 
 <details>
 
@@ -198,10 +198,8 @@ Desktop app that runs AI coding agents in visual workflows
 Coding, general purpose
 
 ### Description
-- Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything.
-- Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor.
+- Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps.
 - GitHub stars: 50
-- Local and open source (MIT), on macOS and Linux.
 
 
 ### Links
