@@ -188,6 +188,26 @@ Coding, general purpose
 
 </details>
 
+## [Frink](https://github.com/benord-labs/frink)
+Desktop-first app for parallel agents and triggered multi-step workflows.
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/197941188?s=64&v=4)
+### Category
+Coding, general purpose
+
+### Description
+- Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps.
+- GitHub stars: 50
+
+
+### Links
+- [GitHub](https://github.com/benord-labs/frink)
+- [Web](https://frink.dev)
+
+</details>
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
