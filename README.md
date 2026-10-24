@@ -240,6 +240,28 @@ The key technologies used in the project include FastAPI, uvicorn, LiteLLM, Dock
 
 </details>
 
+## [Orbi](https://github.com/orbi-build/orbi)
+AI GitHub App that turns issues into merged pull requests
+
+<details>
+
+![Image](https://github.com/orbi-build.png?size=64)
+### Category
+Coding, GitHub issues to pull requests
+
+### Description
+- Open-source (AGPL-3.0, Python) coding agent delivered as a GitHub App: write a GitHub issue and Orbi plans the change, writes the code and opens a pull request.
+- Keeps working on the PR after it is opened: answers review comments and fixes failing CI until it is ready to merge.
+- Self-hostable, or use the hosted Orbi Cloud (first 3 merged pull requests free, no credit card needed).
+
+
+### Links
+- [GitHub](https://github.com/orbi-build/orbi)
+- [Website](https://orbi.build/?ref=gh-awesome-devins)
+
+
+</details>
+
 ## [Plandex](https://github.com/plandex-ai/plandex)
 Terminal-based AI coding engine for complex tasks
 
