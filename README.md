@@ -41,6 +41,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 - Follow us on [Twitter](https://twitter.com/e2b)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 --->
